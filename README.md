@@ -1,0 +1,102 @@
+# LOTUS Protection
+
+Dépôt GitHub prévu : `Famille-Lotus/Famille-Lotus-Protection`
+
+Version : prototype v0.1.0. Ouvrir `index.html` dans un navigateur. Aucun déploiement ou test sur appareil n’est confirmé.
+
+Fonctionnalités proposées :
+- V
+- é
+- r
+- i
+- f
+- i
+- e
+- r
+-  
+- u
+- n
+-  
+- l
+- i
+- e
+- n
+-  
+- s
+- u
+- s
+- p
+- e
+- c
+- t
+- ;
+- P
+- r
+- é
+- p
+- a
+- r
+- e
+- r
+-  
+- u
+- n
+- e
+-  
+- l
+- i
+- s
+- t
+- e
+-  
+- d
+- e
+-  
+- s
+- é
+- c
+- u
+- r
+- i
+- t
+- é
+- ;
+- N
+- o
+- t
+- e
+- r
+-  
+- u
+- n
+- e
+-  
+- q
+- u
+- e
+- s
+- t
+- i
+- o
+- n
+-  
+- d
+- e
+-  
+- c
+- o
+- n
+- f
+- i
+- d
+- e
+- n
+- t
+- i
+- a
+- l
+- i
+- t
+- é
+
+Limites : interface prototype ; ne pas utiliser pour des urgences, documents sensibles ou stockage durable sans tests et protections complémentaires.
