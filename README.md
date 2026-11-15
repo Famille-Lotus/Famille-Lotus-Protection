@@ -1,102 +1,28 @@
 # LOTUS Protection
 
-Dépôt GitHub prévu : `Famille-Lotus/Famille-Lotus-Protection`
+Dépôt : `Famille-Lotus/Famille-Lotus-Protection`
 
-Version : prototype v0.1.0. Ouvrir `index.html` dans un navigateur. Aucun déploiement ou test sur appareil n’est confirmé.
+## Prototype v0.1.1 — correction de présentation
 
-Fonctionnalités proposées :
-- V
-- é
-- r
-- i
-- f
-- i
-- e
-- r
--  
-- u
-- n
--  
-- l
-- i
-- e
-- n
--  
-- s
-- u
-- s
-- p
-- e
-- c
-- t
-- ;
-- P
-- r
-- é
-- p
-- a
-- r
-- e
-- r
--  
-- u
-- n
-- e
--  
-- l
-- i
-- s
-- t
-- e
--  
-- d
-- e
--  
-- s
-- é
-- c
-- u
-- r
-- i
-- t
-- é
-- ;
-- N
-- o
-- t
-- e
-- r
--  
-- u
-- n
-- e
--  
-- q
-- u
-- e
-- s
-- t
-- i
-- o
-- n
--  
-- d
-- e
--  
-- c
-- o
-- n
-- f
-- i
-- d
-- e
-- n
-- t
-- i
-- a
-- l
-- i
-- t
-- é
+Ce prototype propose une interface dorée, crème et bleu nuit et une prise de notes locale par catégorie :
 
-Limites : interface prototype ; ne pas utiliser pour des urgences, documents sensibles ou stockage durable sans tests et protections complémentaires.
+- Vérifier un lien suspect (prise de notes uniquement, **sans analyse automatique**)
+- Préparer une liste de sécurité
+- Noter une question de confidentialité
+
+## Fonctionnement réel
+
+Les notes peuvent être ajoutées, supprimées et effacées. Le navigateur tente de les conserver dans son stockage local. Il n'existe ni compte, ni sauvegarde cloud, ni synchronisation, ni vérification automatique de liens.
+
+**Ne pas utiliser pour des urgences, des documents sensibles ou comme coffre-fort sécurisé.**
+
+## Installation
+
+Remplacer `index.html` et `README.md` dans le dépôt GitHub existant. Ne pas créer de second dépôt. Aucun test sur iPhone/iPad ni déploiement n'est encore confirmé.
+
+## Corrections
+
+- Catégories affichées sous forme de phrases, et non de lettres isolées.
+- Liste des fonctionnalités réparée.
+- Code HTML/CSS/JavaScript organisé en plusieurs lignes.
+- Limites de sécurité clarifiées.
